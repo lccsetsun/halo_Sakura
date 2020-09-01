@@ -1,14 +1,6 @@
-<h1 align="center"><a href="https://github.com/halo-dev" target="_blank">Halo</a></h1>
+<h1 align="center"><a href="https://github.com/lccsetsun/halo_Sakura" target="_blank">halo_Sakura</a></h1>
 
 > Halo 是一款现代化的个人独立博客系统，给习惯写博客的同学多一个选择。
-
-<p align="center">
-<a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/halo-dev/halo.svg?style=flat-square"/></a>
-<a href="https://github.com/halo-dev/halo/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/halo-dev/halo/total.svg?style=flat-square"></a>
-<a href="https://hub.docker.com/r/ruibaby/halo"><img alt="Docker pulls" src="https://img.shields.io/docker/pulls/ruibaby/halo?style=flat-square"></a>
-<a href="https://github.com/halo-dev/halo/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/halo-dev/halo.svg?style=flat-square"></a>
-<a href="https://travis-ci.org/halo-dev/halo"><img alt="Travis CI" src="https://img.shields.io/travis/halo-dev/halo.svg?style=flat-square"/></a>
-</p>
 
 ------------------------------
 
@@ -30,83 +22,19 @@
 
 PS：实在不想写这个声明（影响 README 的美观），但是就目前来看，写在 README 上是有必要的，因为大部分遇到问题的人都不会去仔细阅读文档。
 
-## 快速开始
-
-### 下载最新的 Halo 安装包
-
-> 其他地址：https://halo.run/archives/download.html
-
-```bash
-curl -L https://github.com/halo-dev/halo/releases/download/v1.3.2/halo-1.3.2.jar --output halo-latest.jar
-```
-
-或者
-
-```bash
-wget https://github.com/halo-dev/halo/releases/download/v1.3.2/halo-1.3.2.jar -O halo-latest.jar
-```
-
 ### 启动 Halo
 
 ```bash
 java -jar halo-latest.jar
 ```
 
-详细部署文档请移步：<https://halo.run/archives/install-quick-start.html>
-
 ## 博客示例
 
-请移步： <https://halo.run/p/user-wall.html>。
+请移步： <https://blog.setsun.vip>。
 
 ## 周边
 
-- 后台管理（halo-admin）：<https://github.com/halo-dev/halo-admin>
 - 独立评论模块（halo-comment）：<https://github.com/halo-dev/halo-comment>
 - 管理 APP（已停止维护）：<https://github.com/halo-dev/halo-app>
 - 主题仓库：<https://halo.run/p/themes.html>
 - 资源下载：<https://dl.halo.run>
-- WeHalo 小程序：<https://github.com/aquanlerou/WeHalo>
-
-## 许可证
-
-[![license](https://img.shields.io/github/license/halo-dev/halo.svg?style=flat-square)](https://github.com/halo-dev/halo/blob/master/LICENSE)
-
-> Halo 使用 GPL-v3.0 协议开源，请尽量遵守开源协议。
-
-## 贡献
-参考 [CONTRIBUTING](./CONTRIBUTING.md)。
-
-## 捐赠
-
-> 如果 Halo 对你有帮助，可以请开发团队们喝杯☕️。
-
-- 一次性赞助：<https://sponsor.halo.run>
-- 周期性赞助：<https://afdian.net/@halo-dev>
-
-## 预览图
-
-![theme-anatole.png](https://i.loli.net/2019/09/11/OQtKEWcCe8xYBph.png)
-
-![theme-icarus.png](https://i.loli.net/2019/09/11/4lO2wNCLiqyIJmR.png)
-
-![install.png](https://i.loli.net/2019/09/11/Iu1eMzZDg6frw97.png)
-
-![admin-login.png](https://i.loli.net/2019/09/11/3CahVJAvXngwiQu.png)
-
-![admin-dashboard.png](https://i.loli.net/2019/09/11/G5R6bOweYoiZKEv.png)
-
-![admin-posts.png](https://i.loli.net/2019/09/11/uMHSeIkmC4iPzfJ.png)
-
-![admin-post-edit.png](https://i.loli.net/2019/09/11/ucDh2tOZLJGTyHX.png)
-
-![admin-post-publish.png](https://i.loli.net/2019/09/11/UwC3ecsRpAMONgq.png)
-
-![admin-post-settings.png](https://i.loli.net/2019/09/11/bxmJ7OTirtvV4Gs.png)
-
-![admin-attachment.png](https://i.loli.net/2019/09/11/B5UlX6vAgZ3bzaJ.png)
-
-![admin-profile.png](https://i.loli.net/2019/09/11/mMageUXv5EDpfJQ.png)
-
-![admin-themes.png](https://i.loli.net/2019/09/11/FVA953Ljswd4c8G.png)
-
-![admin-options.png](https://i.loli.net/2019/09/11/TK6SeMdVj1xcrDw.png)
