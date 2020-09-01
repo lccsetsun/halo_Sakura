@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: Halo Application
+Implementation-Version: 1.4.0-beta.2
+

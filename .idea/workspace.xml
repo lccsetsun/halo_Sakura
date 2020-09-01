@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efd78b84-52c4-4ed6-8c66-ffea2618f812" name="Default Changelist" comment="增加主题文件">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_dev.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_dev.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="halo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="halo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="halo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="halo" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gXTGWKudkCAkff6oniwJRpOElu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config/theme" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/theme" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="YamlThemePropertyResolverTest.directResolveTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;run.halo.app.handler.theme.YamlThemePropertyResolverTest.directResolveTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="halo [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="halo [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="halo [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="halo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="run.halo.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="run.halo.app.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Gradle.halo [bootJar]" />
+        <item itemvalue="Gradle.halo [build]" />
+        <item itemvalue="Gradle.halo [jar]" />
+        <item itemvalue="Gradle.YamlThemePropertyResolverTest.directResolveTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd78b84-52c4-4ed6-8c66-ffea2618f812" name="Default Changelist" comment="" />
+      <created>1598259841673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598259841673</updated>
+      <workItem from="1598259843582" duration="2736000" />
+      <workItem from="1598319719176" duration="3628000" />
+      <workItem from="1598428767164" duration="2375000" />
+      <workItem from="1598435682016" duration="629000" />
+      <workItem from="1598511335973" duration="548000" />
+      <workItem from="1598514369235" duration="1818000" />
+      <workItem from="1598861866320" duration="503000" />
+      <workItem from="1598865986535" duration="903000" />
+      <workItem from="1598927836349" duration="1194000" />
+    </task>
+    <task id="LOCAL-00001" summary="增加主题文件">
+      <created>1598928114667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598928114667</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加主题文件">
+      <created>1598928727602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598928727602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加主题文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加主题文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1524" height="234" key="GridCell.Tab.0.bottom" timestamp="1598868098140">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1524" height="234" key="GridCell.Tab.0.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1598868098140" />
+    <state width="1524" height="234" key="GridCell.Tab.0.center" timestamp="1598868098140">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1524" height="234" key="GridCell.Tab.0.center/0.23.1792.1040@0.23.1792.1040" timestamp="1598868098140" />
+    <state width="1524" height="234" key="GridCell.Tab.0.left" timestamp="1598868098140">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1524" height="234" key="GridCell.Tab.0.left/0.23.1792.1040@0.23.1792.1040" timestamp="1598868098140" />
+    <state width="1524" height="234" key="GridCell.Tab.0.right" timestamp="1598868098140">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1524" height="234" key="GridCell.Tab.0.right/0.23.1792.1040@0.23.1792.1040" timestamp="1598868098140" />
+    <state width="1524" height="234" key="GridCell.Tab.1.bottom" timestamp="1598868098141">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1524" height="234" key="GridCell.Tab.1.bottom/0.23.1792.1040@0.23.1792.1040" timestamp="1598868098141" />
+    <state width="1524" height="234" key="GridCell.Tab.1.center" timestamp="1598868098141">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1524" height="234" key="GridCell.Tab.1.center/0.23.1792.1040@0.23.1792.1040" timestamp="1598868098141" />
+    <state width="1524" height="234" key="GridCell.Tab.1.left" timestamp="1598868098141">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1524" height="234" key="GridCell.Tab.1.left/0.23.1792.1040@0.23.1792.1040" timestamp="1598868098141" />
+    <state width="1524" height="234" key="GridCell.Tab.1.right" timestamp="1598868098141">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state width="1524" height="234" key="GridCell.Tab.1.right/0.23.1792.1040@0.23.1792.1040" timestamp="1598868098141" />
+    <state x="290" y="158" key="SettingsEditor" timestamp="1598928287990">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="290" y="158" key="SettingsEditor/0.23.1792.1040@0.23.1792.1040" timestamp="1598928287990" />
+    <state x="390" y="259" key="Vcs.Push.Dialog.v2" timestamp="1598928729789">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="390" y="259" key="Vcs.Push.Dialog.v2/0.23.1792.1040@0.23.1792.1040" timestamp="1598928729789" />
+    <state x="487" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598429091897">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="487" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1792.1040@0.23.1792.1040" timestamp="1598429091897" />
+    <state x="507" y="274" width="650" height="490" key="find.popup" timestamp="1598861991099">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="507" y="274" width="650" height="490" key="find.popup/0.23.1792.1040@0.23.1792.1040" timestamp="1598861991099" />
+    <state x="428" y="315" key="git4idea.merge.GitPullDialog" timestamp="1598928711400">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="428" y="315" key="git4idea.merge.GitPullDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1598928711400" />
+  </component>
+</project>
